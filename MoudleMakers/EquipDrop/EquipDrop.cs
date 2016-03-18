@@ -31,6 +31,7 @@ public class EquipDrop : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         //Died();
+        
     }
 	
 	// Update is called once per frame

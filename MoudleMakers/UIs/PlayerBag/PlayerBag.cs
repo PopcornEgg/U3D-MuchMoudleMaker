@@ -13,6 +13,8 @@ public class PlayerBag : MonoBehaviour
 
     void Start()
     {
+        TabManager.Load();
+
         if (itemObj == null)
             return;
 
